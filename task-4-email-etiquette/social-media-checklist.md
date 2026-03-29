@@ -1,5 +1,9 @@
 To help you build a professional and safe online presence, here is a detailed Do's and Don'ts of Social Media.
+
+
 Do's
+
+
 1.Verify Before Sharing: Always check if a news story is from a real source before hitting the "Share" button.
 
 2.Use Privacy Settings: Regularly audit your settings to ensure only friends can see your personal family photos.
@@ -10,7 +14,12 @@ Do's
 
 5.Highlight Your Skills: Use your Bio section to mention your major, interests, or a skill you’re proud of.
 
+
+
 Don'ts
+
+
+
 1.Don’t Over-Share Personal Info: Avoid posting your home address, phone number, bank details , credentials or live location in real-time.
 
 2.Don’t Engage in Trolling: Steer clear of aggressive online arguments or keyboard wars that leave a negative trail.
