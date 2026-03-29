@@ -1,7 +1,7 @@
-To help you build a professional and safe online presence, here is a detailed Do's and Don'ts of Social Media.
+#To help you build a professional and safe online presence, here is a detailed Do's and Don'ts of Social Media.
 
 
-Do's
+#Do's
 
 
 1.Verify Before Sharing: Always check if a news story is from a real source before hitting the "Share" button.
@@ -16,7 +16,7 @@ Do's
 
 
 
-Don'ts
+#Don'ts
 
 
 
