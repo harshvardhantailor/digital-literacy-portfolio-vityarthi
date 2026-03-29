@@ -3,7 +3,7 @@
 
 
 
-- ** Use this checklist to protect yourself from cyber threats like phishing, scams, and data breaches. Each tip is actionable—tick them off as you implement. **
+- ** Use this checklist to protect yourself from cyber threats like phishing, scams, and data breaches. Each tip is actionable—tick them off as you implement. 
 
 - Scan for malware: Run weekly scans with free tools like Malwarebytes; delete suspicious apps immediately.
 
